@@ -1,6 +1,8 @@
 # Rabbit-Rust(Un Official)
 ![Logo](https://avatars3.githubusercontent.com/u/11961573?v=3&s=100)
 
+[![Build Status](https://travis-ci.org/winhtaikaung/rabbit-rust.svg?branch=master)](https://travis-ci.org/winhtaikaung/rabbit-rust)
+
 **Zawgyi <=> Unicode Converter for Rust Lang(Rust)**
 ## Usage
 
